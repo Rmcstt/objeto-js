@@ -4,7 +4,7 @@
 
 processamento(valor1, valor2, valor3)
 
-// O.O.ppp
+// O.O
 
 objeto = {
   valor1,
