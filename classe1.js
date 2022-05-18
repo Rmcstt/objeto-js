@@ -33,3 +33,5 @@ const contaLuz = new Lancamento('Luz', -150)
 const contas = new cicloFinanceiro(5, 2022)
 contas.addLancamentos(salario, contaLuz)
 console.log(contas.sumario()) /// 485
+
+// class é praticamente a mesma coisa que função!!! a grosso modo é uma forma diferente de escrever uma function!!!
